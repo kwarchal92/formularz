@@ -1,0 +1,33 @@
+section{
+    width: 1024px;
+    height: 512px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(6, 39, 39);
+    padding-left: 15px;
+}
+
+
+#button{
+    background-color: rgb(83, 83, 31);
+    width: 150px;
+    height: 45px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+input{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+p{
+    color: rgb(41, 95, 95);
+    font-size: 30px;
+}
+
+#name, #surname, #phone{
+    font-size: 20px;
+    color: white;
+}
