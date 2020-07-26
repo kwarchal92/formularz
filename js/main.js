@@ -5,7 +5,7 @@ let phone = document.getElementById('phone');
 
 
 
-    przycisk.onclick = function dane(){
+    przycisk.onclick = function(){
 
         name.textContent = document.getElementById('imie').value;
         console.log(name);
